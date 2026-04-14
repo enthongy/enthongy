@@ -106,10 +106,6 @@ class EnThong:
 
 <div align="center">
 
-![En Thong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=enthongy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enthongy&layout=compact&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=enthongy&theme=tokyonight&hide_border=true)
 
 </div>
