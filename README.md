@@ -81,10 +81,17 @@ class EnThong:
 
 ---
 
-### 📱 [UTM ReMerit](https://github.com/cheng-jiayi/SECJ3104-AD-Section2-GroupHappy) — Campus Sustainability App *(Fullstack)*
+### 📱 UTM ReMerit — Campus Sustainability App *(Fullstack)*
 > Fullstack mobile app built with a team of 4 to gamify recycling through a reward system — built from DB schema to UI.
 
 `React Native` `Express.js` `MySQL` `REST APIs` `Git`
+
+---
+
+### 😊 [SmileSpace](https://github.com/cheng-jiayi/SECJ3303-IP-Section2-GroupHappy) — Java Application *(Group Project)*
+> A collaborative Java project developed as part of UTM's Internet Programming coursework with Group Happy.
+
+`Java` `Internet Programming` `UTM Coursework`
 
 ---
 
@@ -96,7 +103,7 @@ class EnThong:
 ---
 
 ### 🏆 NIARC 2024 — Autonomous Robotics *(National Champion)*
-> Led the software team to 1st place among 13 teams from 6 universities. Developed LabVIEW-based autonomous navigation and closed-loop control systems.
+> Served in the software team, contributing to 1st place among 13 teams from 6 universities. Developed LabVIEW-based autonomous navigation and closed-loop control systems.
 
 `LabVIEW` `Robotics` `Control Systems` `Autonomous Navigation`
 
