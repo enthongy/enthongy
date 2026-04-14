@@ -81,7 +81,7 @@ class EnThong:
 
 ---
 
-### 📱 UTM ReMerit — Campus Sustainability App *(Fullstack)*
+### 📱 [UTM ReMerit](https://github.com/cheng-jiayi/SECJ3104-AD-Section2-GroupHappy) — Campus Sustainability App *(Fullstack)*
 > Fullstack mobile app built with a team of 4 to gamify recycling through a reward system — built from DB schema to UI.
 
 `React Native` `Express.js` `MySQL` `REST APIs` `Git`
@@ -128,7 +128,7 @@ class EnThong:
 - 🎵 Music is the background track to every coding session
 - 📖 Anime & reading fan — currently switching between technical papers and something with a good plot twist
 - 🪖 Midshipman & Executive Committee at PALAPES UTM (ROTU Navy)
-- 🤖 AI Department Lead at AIROST — UTM's AI, ROS & IoT Club
+- 🤖 AI Department Lead at AIROST 2024/2025 — UTM's AI, ROS & IoT Club
 
 ---
 
