@@ -81,7 +81,7 @@ class EnThong:
 
 ---
 
-### 📱 UTM ReMerit — Campus Sustainability App *(Fullstack)*
+### 📱 [UTM ReMerit](https://github.com/cheng-jiayi/SECJ3104-AD-Section2-GroupHappy) — Campus Sustainability App *(Fullstack)*
 > Fullstack mobile app built with a team of 4 to gamify recycling through a reward system — built from DB schema to UI.
 
 `React Native` `Express.js` `MySQL` `REST APIs` `Git`
