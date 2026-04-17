@@ -122,7 +122,7 @@ class EnThong:
 ## ⚡ Fun Facts
 
 - 🏆 National Robotics Champion — NIARC 2024 (1st place out of 13 teams, 6 universities)
-- 🥉 Built *TalkGlove*, a handsign-to-speech app that won Bronze at UTM's Human Communication Day (42 teams)
+- 🥉 Built *TalkGlove*, a handsign-to-speech app that won Bronze at UTM's Human Communication Interaction Day (42 teams)
 - 🏸 Competitive badminton player — Top 4 UTM Games (Women's Singles) & Champion Women's Doubles at UTMKL Sports Festival
 - 🎮 Gamer by night — probably debugging code and losing ranked matches at the same time
 - 🎵 Music is the background track to every coding session
